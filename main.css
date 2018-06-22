@@ -1,0 +1,262 @@
+
+.firstpic {
+  height: 400px;
+  width:100%;
+  position: absolute;
+  margin-bottom: 50px;
+  background-image: url('./mainpage2.jpg');
+  background-size: cover;
+  background-position: top;
+
+
+}
+
+.new {
+  padding: 120px;
+}
+
+.input-group-text {
+   background-color: white;
+   outline:none;
+   border-color: white;
+}
+
+#pages{
+margin-left:400px;
+
+}
+
+
+.pic {
+  width:100%;
+  height: 100%;
+  padding-top: 5px; 
+}
+
+.form-control {
+   outline:none;
+   border-color: white;
+}
+
+.noflex {
+  flex:0 0 0;
+}
+
+
+.newgif {
+  position: relative;
+  padding:20px;
+  margin-left: 50px;
+}
+.btn-secondary {
+   background-color: white;
+   color:black;
+}
+
+ h2, h3, h4, h5, h6 {
+  font-family: 'Raleway';
+  margin: 0;
+} 
+
+.titletop {
+  font-size:40px;
+  color:white;
+  font-family: 'Diplomata';
+  position: absolute;
+  padding-left: 230px;
+}
+
+p, a, label, body, li {
+	font-family: 'Montserrat';
+}
+
+datalist{
+    font-family: 'Montserrat';
+    font-size :12px;
+}
+
+body{
+
+  background-color:white;
+}
+
+.search-form button {
+    width: 100%;
+}
+
+.newrow {
+   margin-top:200px;
+   margin-left: 10px;
+}
+
+.rowalign {
+  background-color:lightgrey;
+   padding-bottom: 40px;
+}
+.space {
+   max-width:100%;
+   padding-bottom: 20px;
+}
+
+.titlec{
+Color:black;
+}
+
+
+
+.button {
+  display: block;
+  width: 115px;
+  height: 25px;
+  background: #4E9CAF;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+}
+.space2 {
+   padding-bottom: 20px;
+   max-width:80%;
+}
+.border-box{
+  width = 20 px;  
+  height =40 px;
+}
+.empty-result {
+    margin-top: 180px;
+}
+.ftext {
+    padding-bottom:0px;
+    font-size :12px;
+}
+.filter {
+    background-color:lightgray;
+    height: 1100px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.gif-container {
+   width: 500px;
+   margin-left: 10px;
+}
+
+.firstc{
+  margin-top:200px;
+}
+
+.textmargin {
+   margin-left: 10px;
+   margin-top: 0px;
+   margin-bottom: 0px;
+   padding: 0px;
+   font-style: "Song Myung";
+}
+
+.gif {
+    width: 50%;
+    padding: 5px 0px;
+    margin: 10px 0px;
+    min-height: 60px;
+    border: 1px solid darkgray;
+    background-color: rgb(153, 129, 129);
+} 
+
+.pictext {
+   display:inline-flex;
+} 
+
+
+.menu{
+  margin-top:2px;
+}
+
+.pictext3 {
+   margin-left:0px;
+}
+
+.btn-group:hover .dropdown-menu {
+  display: block;
+  margin-top: 0;
+
+}
+
+.btn-group {
+   background-color: white;
+}
+
+.text-centername {
+   font-size: 25px;
+   color: green;
+   font-weight: 300px;
+   font-style: "Song Myung";
+}
+
+.textvote {
+color:lightgrey;
+}
+
+.textrate {
+  color:white;
+  background-color: blue;
+  border: 1px solid blue;
+  width: 70%;
+  padding-left:10px;
+  border: 1px solid blue;
+  padding: 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+    margin-bottom: 6px;
+}
+
+.icons{
+  display:inline-flex;
+  margin-left: 100px;
+}
+
+.pspacing {
+   padding-right: 20px;
+}
+
+.list-inline { 
+   padding-left: 550px;
+}
+
+.displaypic {
+  height:300px;
+}
+
+.collect {
+   margin-top:20px;
+   margin-bottom: 20px;
+}
+
+.footercolor { 
+  background-color:rgb(34,32,36);
+   position:relative;
+   margin-bottom: -20px;
+   margin-top: 40px;
+   width:100%;
+   margin-left: -20px;
+   color:white;
+}
+
+.text-center2 {
+    font-size: 15px;
+    color: black;
+     font-weight: 50px;
+     font-style: "Song Myung";
+}
+
+.text-center3 {
+  font-size: 15px;
+  color: grey;
+  font-weight: 10px;
+  font-style: "Song Myung";
+}
+
+.text-center {
+   margin-left: 10px;
+   font-style: "Song Myung";
+}
