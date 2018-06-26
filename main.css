@@ -1,10 +1,10 @@
 
 .firstpic {
-  height: 400px;
+  height: 300px;
   width:100%;
   position: absolute;
   margin-bottom: 50px;
-  background-image: url('./mainpage2.jpg');
+  background-image: url('./board-bunch-cooking-349609.jpg');
   background-size: cover;
   background-position: top;
 
@@ -60,10 +60,11 @@ margin-left:400px;
 
 .titletop {
   font-size:40px;
-  color:white;
+  color:Black;
   font-family: 'Diplomata';
   position: absolute;
   padding-left: 230px;
+  margin-top: 30px;
 }
 
 p, a, label, body, li {
@@ -85,7 +86,7 @@ body{
 }
 
 .newrow {
-   margin-top:200px;
+   margin-top:100px;
    margin-left: 10px;
 }
 
@@ -112,7 +113,7 @@ Color:black;
   padding: 10px;
   text-align: center;
   border-radius: 5px;
-  color: white;
+  color: black;
   font-weight: bold;
 }
 .space2 {
@@ -143,7 +144,12 @@ Color:black;
 }
 
 .firstc{
-  margin-top:200px;
+  font-family: 'Diplomata';
+  margin-top:50px;
+}
+
+.cmargin{
+  margin-top:50px;
 }
 
 .textmargin {
